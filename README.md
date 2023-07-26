@@ -1,2 +1,2 @@
 # Linear_Regression
-Linear Regression project, analyzed attributes of high earning comedy films
+The goal of this project was to ascertain which attributesor features of comedy films correlate to high earnings at the box office usinglinear regression models with US gross box office revenues as the target. Thisinformation could be used by a producer or studio to develop or evaluatepotential comedy films. I worked with data scraped from IMDB on the top 1100highest grossing comedies at the US Box Office of all time, and identified keyfeatures through feature engineering and cross validation, that correlate withgross box office revenues.
